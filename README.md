@@ -5,7 +5,7 @@
 
 <h3 align="left">Conecte-se comigo:</ h3>
 <p align="left">
-<a href="https://instagram.com/danielpereiramonteiro" target="blank"><img align="center" src="https://raw.githubusercontent.com /rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielpereiramonteiro" height="30"width="40" /></a>
+<a href="https://instagram.com/danielpereiramonteiro" target="blank"><img align="center" src="https://www.flaticon.com/br/icone-gratis/logotipo-do-instagram_87390" alt="danielpereiramonteiro" height="30"width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
