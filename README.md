@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Daniel Pereira Monteiro</h1>
 <h3 align="center">cursando em Sistemas de Informação UFV</h3>
 
-<p align="left"> <img src ="https://komarev.com/ghpvc/?username=daniel227a&label=Profile%20views&color=0e75b6&style=flat" alt="daniel227a" /> </p>
+
 
 
 <h3 align="left">Idiomas e ferramentas:</h3>
@@ -9,7 +9,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel227a&show_icons=true&locale=en&layout=compact" alt="daniel227a" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel227a&show_icons=true&locale=en" alt="daniel227a" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel227a&" alt="daniel227a" /></p>
 
