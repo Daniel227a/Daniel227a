@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Daniel Pereira Monteiro</h1>
-<h3 align="center">cursando em Sistemas de Informação UFV</h3>
+<h3 align="center"> Sistemas de Informação UFV</h3>
 
 
 
